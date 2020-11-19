@@ -2,7 +2,7 @@
 Automate E2E scenario on elmenus.com 
 
 ### Description
-Making an order from MacDonald's restaurants while creating new account and setting up user location and address to complete the order.
+Applying POM design pattern for making an order from MacDonald's restaurant while creating new account and setting up user location and address to complete the order.
 ### Note:
 This project implemented and tested on the following specs
 
