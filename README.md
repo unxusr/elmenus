@@ -5,12 +5,19 @@ Automate E2E scenario on elmenus.com
 Making an order from MacDonald's restaurants while creating new account and setting up user location and address to complete the order.
 ### Note:
 This project implemented and tested on the following specs
+
 1- Ubuntu 20.4
+
 2- python3 
+
 3- behave framework
+
 4- selenium webdriver
+
 5- allure report
+
 6- Chrome webdriver
+
 7- Firefox geckodriver
 
 ## Installation
